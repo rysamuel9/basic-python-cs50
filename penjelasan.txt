@@ -1,0 +1,7 @@
+function=   take their arguments inside of parentheses.
+            *print
+            *input= Prompts the user for input and asks them just type some input
+variables=  how to store value and save them to temporary memory.
+data types: int (29), float (29.0), str("29"), bool(True/False), NoneType(None)
+            *None as a value we'll use whenever we want to represent the lack of a value somwhere.
+            So if we have a function that is no returning anything.
